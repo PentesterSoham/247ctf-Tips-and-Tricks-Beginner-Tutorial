@@ -9,13 +9,14 @@ If you are not sure where to start with Python, we recommend the introductory Py
 Click the ‘START CHALLENGE’ button to the right of this text description to start a socket challenge. Utilise a programming language to interface with the socket and automate solving 500 simple addition problems to receive the flag. Take care when interfacing with unknown remote services - '\n' is not the only way to end.
 
 
-#pre-requirement's
+# pre-requirement's
 
 apt-get install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential
 
 python3 -m pip install --upgrade pwntools
 
-#how to use the script ?
+# how to use the script ?
+
 1:- open the script with any text editor.
 
 2:- change the URL and PORT variable's value IN LINE NO 4 AND 5, which you will get after clicking on ‘START CHALLENGE’ button  [MAKE SURE you doesn't do any kind of spelling mistake and no need of mentioning the protocol(tcp or udp) ]
