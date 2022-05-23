@@ -1,7 +1,8 @@
 # 247ctf-Tips-and-Tricks-Beginner-Tutorial
 
 
-#Describetion and question
+# Describetion and question
+
 A number of challenges will require you to create solutions which are more efficiently solved by making use of a programming language to automate and perform the computations. For this purpose, we recommend to make use of Python as well as complementary libraries such as requests and pwntools.
 
 If you are not sure where to start with Python, we recommend the introductory Python 101 for Hackers course.
