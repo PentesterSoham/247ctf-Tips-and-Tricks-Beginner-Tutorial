@@ -11,11 +11,12 @@ Click the ‘START CHALLENGE’ button to the right of this text description to 
 
 
 # pre-requirement's
-
+```
 apt-get install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential
 
 python3 -m pip install --upgrade pwntools
-
+```
+-----
 # how to use the script ?
 
 1:- open the script with any text editor.
